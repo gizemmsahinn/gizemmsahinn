@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <br />
 
 
-[instagram]: https://instagram.com/gizemmsahinnn/ target="_blank"
-[linkedin]: https://www.linkedin.com/in/-gizemsahin-/ target="_blank"
+[instagram]: https://instagram.com/gizemmsahinnn/
+[linkedin]: https://www.linkedin.com/in/-gizemsahin-/
 [gmail]: mailto:gizemmsahinn97@hotmail.com
 
 <br />
