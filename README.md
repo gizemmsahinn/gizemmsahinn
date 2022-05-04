@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" target="_blank" />][linkedin] [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram] [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail] 
+[<img align="left" alt="linkedin | LinkedIn" width="24" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin] [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram] [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail] 
 
 
 <br />
 
 
-[instagram]: https://www.instagram.com/gizemmsahinnn/
-[linkedin]: https://www.linkedin.com/in/-gizemsahin-/
+[instagram]: https://instagram.com/gizemmsahinnn/ target="_blank"
+[linkedin]: https://www.linkedin.com/in/-gizemsahin-/ target="_blank"
 [gmail]: mailto:gizemmsahinn97@hotmail.com
 
 <br />
