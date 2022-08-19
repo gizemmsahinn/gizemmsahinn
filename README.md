@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
 
-I'm a Physicist 👨‍🎓 Freelance Content Writer ✍ Game Software Specialist Student 👨‍🎓!
+I'm a Physicist 👨‍🎓 Game Software Specialist Student 👨‍🎓!
 
 <!--
 **gizemmsahinn/gizemmsahinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
